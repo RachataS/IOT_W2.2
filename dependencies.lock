@@ -1,0 +1,16 @@
+dependencies:
+  LED_class:
+    component_hash: 461d70187f9b10d26da4d7d8c41c5817c3a38637c52abe2ceaa1a977e62fd970
+    source:
+      git: https://github.com/RachataS/IOT_W2.git
+      path: components/LED
+      type: git
+    version: 862ee8e691ca3c4135787a98428f9efc0e7c78f0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.5
+manifest_hash: 957bdcf43a11b3b2e7cae67367a463c63638aef092127eb0d4fe691e6ee9874a
+target: esp32
+version: 1.0.0

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/CMakeFiles/bootloader
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/CMakeFiles/bootloader.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/CMakeFiles/bootloader-complete.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/rachatasupanurak/my_task/IOT_W2.2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
